@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Nware-Lab Kasm Registry',
     description: 'description',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/nware-lab/',
+    listUrl: 'https://github.com/nware-lab/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
