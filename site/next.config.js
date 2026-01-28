@@ -4,10 +4,10 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Nware-Lab Kasm Registry',
+    description: 'description',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://github.com/nware-lab/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
