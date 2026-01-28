@@ -1,7 +1,7 @@
 {
-  "description": "Handbrake but its discord",
+  "description": "Handbrake",
   "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "chromium.png",
+  "image_src": "handbrake.png",
   "run_config": {
     "hostname": "kasm"
   },
