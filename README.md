@@ -2,7 +2,7 @@ Kasm registry with workspaces I wanted
 
 Open for requests
 
-[Application list] (nware-lab.github.io/kasm-registry/)
+[Application list](nware-lab.github.io/kasm-registry/)
 
 ## Discovery
 
