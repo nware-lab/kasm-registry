@@ -14,7 +14,8 @@
     }
   },
   "categories": [
-    "Multimedia"
+    "Multimedia",
+    "Productivity"
   ],
   "friendly_name": "Handbrake",
   "architecture": [
