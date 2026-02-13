@@ -11,7 +11,11 @@
     },
     "assign": {
       "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
-    }
+    },
+     "first_launch":{
+       "user":"root",
+       "cmd":"bash -c '/usr/bin/desktop_ready && apt-get update && apt-get install -y sudo && echo \"kasm-user  ALL=(ALL) NOPASSWD: ALL\" >> /etc/sudoers'"
+   }
   },
   "categories": [
     "Productivity"
